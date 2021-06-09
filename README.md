@@ -1,8 +1,8 @@
 # ENGLISH 中文在下面
-
+***
 # FiveM WUHU framework
 a framework for fivem RP servers
-
+***
 # Feature
 
 1.Easy to use all of framework function .You just need to add a simple line in to your resource.lua or fxmanifest.lua
@@ -25,13 +25,13 @@ notify(text)
 ```
 
 very simple
-
+***
 # Requies
 
 [mysql-async](https://github.com/brouznouf/fivem-mysql-async)
 
 [pmc-callback](https://github.com/pitermcflebor/pmc-callbacks)
-
+***
 # Installation
 1.download the file
 
@@ -42,19 +42,19 @@ very simple
 4.add ``start wh_main`` line into ``server.cfg`` 
 
 # DONT RENAME ANY FILES!!!!!!!
-
+***
 
 # Docs
 
 https://github.com/jkh675/FiveM-WUHU-framework/wiki
-
+***
 
 # 中文 ENGLISH IS ON THE TOP
-
+***
 # FiveM 芜湖架构
 
 专门为RP，赛车服务器而生的架构
-
+***
 # 特性
 
 1.简单调用的功能，您只需要在 resource.lua 或 fxmanifest.lua 加上一行字，即可调用所有功能
@@ -74,13 +74,13 @@ DrawNotification(true, true)
 notify(text)
 ```
 非常简单
-
+***
 # 依赖插件
 
 [mysql-async](https://github.com/brouznouf/fivem-mysql-async)
 
 [pmc-callback](https://github.com/pitermcflebor/pmc-callbacks)
-
+***
 # 安装
 
 1.下载文件
@@ -92,3 +92,4 @@ notify(text)
 4.添加 ``start wh_main`` 到 ``server.cfg`` 里面
 
 # 请勿更改任何文件的名称！！！
+***

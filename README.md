@@ -1,4 +1,4 @@
-#ENGLISH 中文在下面
+# ENGLISH 中文在下面
 
 # FiveM WUHU framework
 a framework for fivem RP servers
@@ -43,7 +43,7 @@ very simple
 https://github.com/jkh675/FiveM-WUHU-framework/wiki
 
 
-#中文 ENGLISH IS ON THE TOP
+# 中文 ENGLISH IS ON THE TOP
 
 # FiveM 芜湖架构
 
@@ -69,9 +69,13 @@ notify(text)
 ```
 非常简单
 
+# 依赖插件
+
+[mysql-async](https://github.com/brouznouf/fivem-mysql-async)
+
+[pmc-callback](https://github.com/pitermcflebor/pmc-callbacks)
+
 # 安装
-
-
 
 1.下载文件
 

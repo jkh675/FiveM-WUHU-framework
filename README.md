@@ -33,6 +33,11 @@ very simple
 
 4.add ``start wh_main`` line into ``server.cfg`` 
 
+# DONT RENAME ANY FILES!!!!!!!
+
+
 # Docs
 
 https://github.com/jkh675/FiveM-WUHU-framework/wiki
+
+

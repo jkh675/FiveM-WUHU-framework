@@ -26,6 +26,12 @@ notify(text)
 
 very simple
 
+# Requies
+
+[mysql-async](https://github.com/brouznouf/fivem-mysql-async)
+
+[pmc-callback](https://github.com/pitermcflebor/pmc-callbacks)
+
 # Installation
 1.download the file
 

@@ -32,3 +32,7 @@ very simple
 3.Import the database(``1.sql``)
 
 4.add ``start wh_main`` line into ``server.cfg`` 
+
+# Docs
+
+https://github.com/jkh675/FiveM-WUHU-framework/wiki

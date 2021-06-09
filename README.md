@@ -25,3 +25,10 @@ notify(test)
 very simple
 
 # Installation
+1.download the file
+
+2.unzip and put in to your ``resource`` folder
+
+3.Import the database(``1.sql``)
+
+4.add ``start wh_main`` line into ``server.cfg`` 

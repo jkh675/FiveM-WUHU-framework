@@ -1,3 +1,6 @@
+# 這絕對是我寫過最垃圾的代碼了.....草
+
+
 # ENGLISH 中文在下面
 ***
 # FiveM WUHU framework

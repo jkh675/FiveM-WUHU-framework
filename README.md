@@ -1,5 +1,9 @@
 # 這絕對是我寫過最垃圾的代碼了.....草
 
+# 新架构在这里 https://github.com/WuXian-FiveM-Project/WuXianFrameworkTypeScript
+# new framework is in here https://github.com/WuXian-FiveM-Project/WuXianFrameworkTypeScript
+
+
 
 # ENGLISH 中文在下面
 ***
